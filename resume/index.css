@@ -1,0 +1,60 @@
+div{
+    border-radius: 5px;
+}
+#header
+{
+
+    height: 40px; 
+    width: 100%;
+    background-color: rgb(142, 152, 145);
+    margin: bottom 8px; ;
+
+}
+#name
+{
+    float: left;
+    margin: left 20px; 
+    padding: bottom 10px; 
+    font-size: large;
+    font-family: inherit;
+    color:black;
+
+
+}
+#email
+{
+float: right;
+margin:right 20px;
+padding: bottom 10px;
+font-size: large;
+font-family: inherit;
+color: rgba(1, 1, 1, 0.729);
+}
+.right
+{
+    float: left;
+    margin-top: 40px;
+    padding-left: 5px;
+    
+    height: auto;
+    width: 98%;
+    background-color: #5671a3;
+    }
+    #footer
+{
+    height: 40px; 
+    width: 100%;
+    background-color: whitesmoke;
+    margin: bottom 8px; ;
+    }
+    #h2
+    {
+        text-decoration: underline;
+    }
+    #h2
+    {
+        text-decoration: solid;
+    }
+    
+
+
